@@ -1,4 +1,4 @@
-# Deep-Learning-Framework-for-Multi-Layer-Perceptron
+# Deep Learning Framework for Multi Layer Perceptron
 
 ## What we are asked to do
 
